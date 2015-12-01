@@ -1,2 +1,1 @@
-# SakeNet
-A useful set of generic commands to build .NET (MSBuild/DNX) projects with the Sake build system.
+Moved here --> https://github.com/theonlylawislove/SakeExtensions
